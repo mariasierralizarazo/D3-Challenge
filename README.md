@@ -16,5 +16,5 @@ Also, when the user points the mouse on top of a circle, information related to 
   <img width="560" height="250" src="https://github.com/mariasierralizarazo/D3-Challenge/blob/master/figures/tooltip.gif?raw=true">
 </p>
 <footer>
-The data and parameter were given by: Trilogy Education Services © 2019. All Rights Reserved.
+The data and parameters were given by: Trilogy Education Services © 2019. All Rights Reserved.
 </footer>
